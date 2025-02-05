@@ -13,7 +13,7 @@ A powerful implementation of the Donut (Document Understanding Transformer) mode
 
 ---
 
-## Features
+## Training
 
 - **Advanced Document Understanding**: Built on `naver-clova-ix/donut-base`
 - **Efficient Processing**: Optimized for 720x960 receipt images
@@ -23,7 +23,5 @@ A powerful implementation of the Donut (Document Understanding Transformer) mode
   - Cosine Learning Rate Scheduler
   - Mixed Precision Training (FP16)
   - Early Stopping
-
----
 
 ![Training Metrics Plot](images/plot.png)
