@@ -17,5 +17,5 @@ A powerful implementation of the Donut (Document Understanding Transformer) mode
   - Early Stopping
 
 ## 📊 Training Metrics
-![Training Metrics Plot](output.png)
+![Training Metrics Plot](plot.png)
 
