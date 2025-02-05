@@ -7,7 +7,7 @@ A powerful implementation of the Donut (Document Understanding Transformer) mode
 
 ---
 
-## Example Workflow
+## Example Output
 
 ![example](images/trial.png)
 
