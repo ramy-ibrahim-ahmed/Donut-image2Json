@@ -19,7 +19,7 @@ A powerful implementation of the Donut (Document Understanding Transformer) mode
 - **Efficient Processing**: Optimized for 720x960 receipt images
 - **Smart Token Handling**: Dynamic special token generation
 - **Training Optimization**:
-  - Gradient Accumulation (16 steps) with 2 batch size so total is 32
+  - Gradient Accumulation 6 steps with 2 batch size so total is 32
   - Cosine Learning Rate Scheduler
   - Mixed Precision Training (FP16)
   - Early Stopping
