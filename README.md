@@ -1,6 +1,6 @@
 # 🧾 Donut Model Fine-Tuning for Receipt Parsing
 
-![Donut Model Architecture](donut_architecture.jpg)  
+![Donut Model Architecture](images/donut_architecture.jpg)  
 *Visual Overview of Donut Model Architecture on its paper ([Source](https://arxiv.org/abs/2111.15664))*
 
 A powerful implementation of the Donut (Document Understanding Transformer) model fine-tuned for extracting structured JSON data from receipt images. This project leverages the ICDAR-2019-SROIE dataset to create a robust document understanding solution.
@@ -9,7 +9,7 @@ A powerful implementation of the Donut (Document Understanding Transformer) mode
 
 ## Example Output
 
-![example](trial.png)
+![example](images/trial.png)
 
 ---
 
@@ -26,4 +26,4 @@ A powerful implementation of the Donut (Document Understanding Transformer) mode
 
 ---
 
-![Training Metrics Plot](plot.png)
+![Training Metrics Plot](images/plot.png)
